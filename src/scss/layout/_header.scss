@@ -1,0 +1,67 @@
+.no-webp .inicio{
+    background-image: url(../img/header5.jpg);
+}
+.webp .inicio {
+    background-image: url(../img/header5.webp);
+}
+.header {
+    background-color: $grisOscuro;
+    padding: 1rem 0 3rem 0;
+    
+    &.inicio {
+        background-position: center center;
+        background-size: cover;
+        @include tablet{
+            min-height: 70rem;
+        }
+        .contenido-header{
+        @include tablet{
+                    min-height: 70rem;
+                }
+            }
+    }
+    &.fijo {
+            left: 0;
+            top: 0;
+            position: fixed;
+            width: 100%;
+            box-shadow: .1rem .2rem .3rem #333;
+            background-color: hsl(0deg 2.07% 7.71% / 75%);
+            border-radius: 0 0 1rem 1rem;
+            padding: 0;
+            .barra{
+                p{
+                    background-color: hsl(0deg 0% 97% / 0%);
+                }
+            }
+        }
+}
+
+.contenido-header{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    h1 {
+        text-align: left;
+        color: darken($gris,8%);
+        font-weight: 900;
+        line-height: 1;
+        max-width: auto;
+        text-align: center;
+        background-color: rgba(49, 49, 49, 0.5); /* Color de fondo con 50% de opacidad */
+        padding: 1rem; /* Espaciado interno para separar el texto del borde */
+        border-radius: .8rem; /* Bordes redondeados */
+        @include tablet{
+        max-width: 50rem;
+        text-align: center;
+        }
+    }
+}
+.barra {
+    img{
+        width: 12rem;
+        height: 4rem;
+    }
+
+}

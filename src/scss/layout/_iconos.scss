@@ -1,0 +1,56 @@
+.iconos-nosotros{
+    text-transform: uppercase;
+    text-align: center;
+    place-items: center;
+    @include grid(3, 2.1rem);
+    @include tablet {
+    @include grid (6,3.5rem);
+    }
+   
+}
+.iconos-contacto{
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    gap: 1rem;
+
+    @include tablet {
+        gap: 10rem;
+    }
+   
+    
+    .iconos{
+    //margin: 0 5rem;
+    img {
+        height: 5rem;
+        width: 5rem;
+
+    }
+
+    h3{
+        text-transform: uppercase;
+    }
+    }
+
+}
+
+
+.iconos{
+    text-align: justify;
+
+    img {
+        height: 7rem;
+        width: 7rem;
+        @include tablet{
+        height: 10rem;
+        width: 10rem;
+        }
+    }
+
+    h3{
+        text-transform: uppercase;
+    }
+}
