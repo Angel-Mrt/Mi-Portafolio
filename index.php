@@ -81,33 +81,36 @@ incluirTemplate('header', $inicio = true);
             <div class="contenido-anuncio">
                 <h3>MaxiBandas</h3>
                 <p>Pagina web para promocionar, contactar y/o contratar grupos y bandas musicales. (Colaboracion)</p>
-                <ul class="iconos-caracteristicas">
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/html.png" alt="icono HTML">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/css.png" alt="icono css">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/js.png" alt="icono js">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/php.png" alt="icono php">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/mysql.png" alt="icono MySql">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/boots.svg" alt="icono bootstrap">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/node.svg" alt="icono NodeJs">
-                    </li>
-                </ul>
+                <div class="fijo">
+                    <ul class="iconos-caracteristicas">
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/html.png" alt="icono HTML">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/css.png" alt="icono css">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/js.png" alt="icono js">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/php.png" alt="icono php">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/mysql.png" alt="icono MySql">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/boots.svg" alt="icono bootstrap">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/node.svg" alt="icono NodeJs">
+                        </li>
+                    </ul>
 
-                <a href="https://www.maxibandas.mx/" class=" boton-amarillo-bl">
-                    Visitar
-                </a>
+
+                    <a href="https://www.maxibandas.mx/" class=" boton-amarillo-bl" target="_blank" rel="noopener noreferrer">
+                        Visitar
+                    </a>
+                </div>
             </div> <!--Contenido Anuncio-->
         </div><!--Anuncio-->
 
@@ -121,33 +124,36 @@ incluirTemplate('header', $inicio = true);
             <div class="contenido-anuncio">
                 <h3>ITSCHI</h3>
                 <p>Pagina Oficial del Instituto Tecnologico Superior de Chicontepec (Colaboracion)</p>
-                <ul class="iconos-caracteristicas">
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/html.png" alt="icono HTML">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/css.png" alt="icono css">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/js.png" alt="Icono JavaScript">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/php.png" alt="Icono Php">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/mysql.png" alt="icono MySql">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/boots.svg" alt="Icono Bootstrap">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/node.svg" alt="Icono NodeJs">
-                    </li>
-                </ul>
+                <div class="fijo">
+                    <ul class="iconos-caracteristicas">
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/html.png" alt="icono HTML">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/css.png" alt="icono css">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/js.png" alt="Icono JavaScript">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/php.png" alt="Icono Php">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/mysql.png" alt="icono MySql">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/boots.svg" alt="Icono Bootstrap">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/node.svg" alt="Icono NodeJs">
+                        </li>
+                    </ul>
 
-                <a href="https://itschicontepec.edu.mx/" class=" boton-amarillo-bl">
-                    Visitar
-                </a>
+
+                    <a href="https://itschicontepec.edu.mx/" class=" boton-amarillo-bl" target="_blank" rel="noopener noreferrer">
+                        Visitar
+                    </a>
+                </div>
             </div> <!--Contenido Anuncio-->
         </div><!--Anuncio-->
 
@@ -162,24 +168,27 @@ incluirTemplate('header', $inicio = true);
             <div class="contenido-anuncio">
                 <h3>Festival de Musica</h3>
                 <p>Un blog Festival de Musica, responsivo, cuenta con distintas secciones de navegacion </p>
-                <ul class="iconos-caracteristicas">
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/html.png" alt="icono HTML">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/css.png" alt="icono css">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/js.png" alt="icono javascript">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/node.svg" alt="icono node">
-                    </li>
-                </ul>
+                <div class="fijo">
+                    <ul class="iconos-caracteristicas">
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/html.png" alt="icono HTML">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/css.png" alt="icono css">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/js.png" alt="icono javascript">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/node.svg" alt="icono node">
+                        </li>
+                    </ul>
 
-                <a href="https://festivalmusica-dev.netlify.app/" class=" boton-amarillo-bl">
-                    Visitar
-                </a>
+
+                    <a href="https://festivalmusica-dev.netlify.app/" class=" boton-amarillo-bl" target="_blank" rel="noopener noreferrer">
+                        Visitar
+                    </a>
+                </div>
             </div> <!--Contenido Anuncio-->
         </div><!--Anuncio-->
 
@@ -193,24 +202,27 @@ incluirTemplate('header', $inicio = true);
             <div class="contenido-anuncio">
                 <h3>Blog De Cafe</h3>
                 <p>Un blog de Cafe, responsivo, cuenta con distintas secciones de navegacion. Creado desde cero hasta el deployment </p>
-                <ul class="iconos-caracteristicas">
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/html.png" alt="icono HTML">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/css.png" alt="icono css">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/js.png" alt="icono js">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/node.svg" alt="icono node">
-                    </li>
-                </ul>
+                <div class="fijo">
+                    <ul class="iconos-caracteristicas">
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/html.png" alt="icono HTML">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/css.png" alt="icono css">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/js.png" alt="icono js">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/node.svg" alt="icono node">
+                        </li>
+                    </ul>
 
-                <a href="https://blogcafe-angelmrt.netlify.app/" class=" boton-amarillo-bl">
-                    Visitar
-                </a>
+
+                    <a href="https://blogcafe-angelmrt.netlify.app/" class=" boton-amarillo-bl" target="_blank" rel="noopener noreferrer">
+                        Visitar
+                    </a>
+                </div>
             </div> <!--Contenido Anuncio-->
         </div><!--Anuncio-->
 
@@ -224,27 +236,33 @@ incluirTemplate('header', $inicio = true);
             <div class="contenido-anuncio">
                 <h3>Web Bienes Raices</h3>
                 <p>Pagina web para administrar un negocio de Bienes Raices, cuenta con un CRUD, creado desde cero y siguiendo la arquitectura MVC.</p>
-                <ul class="iconos-caracteristicas">
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/html.png" alt="icono HTML">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/css.png" alt="icono css">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/js.png" alt="icono javascript">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/php.png" alt="icono php">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/node.svg" alt="icono NodeJs">
-                    </li>
-                </ul>
+                <div class="fijo">
+                    <ul class="iconos-caracteristicas">
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/html.png" alt="icono HTML">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/css.png" alt="icono css">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/js.png" alt="icono javascript">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/php.png" alt="icono php">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/node.svg" alt="icono NodeJs">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/mysql.png" alt="icono MySql">
+                        </li>
+                    </ul>
 
-                <a href="https://voswosa.nyc.dom.my.id/" class=" boton-amarillo-bl">
-                    Visitar
-                </a>
+
+                    <a href="https://voswosa.nyc.dom.my.id/" class=" boton-amarillo-bl" target="_blank" rel="noopener noreferrer">
+                        Visitar
+                    </a>
+                </div>
             </div> <!--Contenido Anuncio-->
         </div><!--Anuncio-->
         <div class="anuncio">
@@ -257,27 +275,33 @@ incluirTemplate('header', $inicio = true);
             <div class="contenido-anuncio">
                 <h3>UpTask</h3>
                 <p>App Web para adminsitrar tareas (tipo TRELLO), creado desde cero hasta el deployment, siguiendo la arquitectura MVC. </p>
-                <ul class="iconos-caracteristicas">
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/html.png" alt="icono HTML">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/css.png" alt="icono css">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/js.png" alt="icono javascript">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/php.png" alt="icono php">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/node.svg" alt="icono NodeJs">
-                    </li>
-                </ul>
+                <div class="fijo">
+                    <ul class="iconos-caracteristicas">
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/html.png" alt="icono HTML">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/css.png" alt="icono css">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/js.png" alt="icono javascript">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/php.png" alt="icono php">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/node.svg" alt="icono NodeJs">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/mysql.png" alt="icono MySql">
+                        </li>
+                    </ul>
 
-                <a href="https://sahbeto.nyc.dom.my.id/" class=" boton-amarillo-bl">
-                    Visitar
-                </a>
+
+                    <a href="https://sahbeto.nyc.dom.my.id/" class=" boton-amarillo-bl" target="_blank" rel="noopener noreferrer">
+                        Visitar
+                    </a>
+                </div>
             </div> <!--Contenido Anuncio-->
         </div><!--Anuncio-->
 
@@ -291,29 +315,76 @@ incluirTemplate('header', $inicio = true);
             <div class="contenido-anuncio">
                 <h3>App Salon</h3>
                 <p>App web para administrar una Barberia, los clientes podran generar citas. El admin podra ver las citas. Creado desde cero y siguiendo la arquitectura MVC</p>
-                <ul class="iconos-caracteristicas">
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/html.png" alt="icono HTML">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/css.png" alt="icono css">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/js.png" alt="icono javascript">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/php.png" alt="icono php">
-                    </li>
-                    <li>
-                        <img class="iconos" loading="lazy" src="/build/img/node.svg" alt="icono NodeJs">
-                    </li>
-                </ul>
+                <div class="fijo">
+                    <ul class="iconos-caracteristicas">
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/html.png" alt="icono HTML">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/css.png" alt="icono css">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/js.png" alt="icono javascript">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/php.png" alt="icono php">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/node.svg" alt="icono NodeJs">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/mysql.png" alt="icono MySql">
+                        </li>
+                    </ul>
 
-                <a href="https://naqwufu.nyc.dom.my.id/" class=" boton-amarillo-bl">
-                    Visitar
-                </a>
+
+                    <a href="https://naqwufu.nyc.dom.my.id/" class=" boton-amarillo-bl" target="_blank" rel="noopener noreferrer">
+                        Visitar
+                    </a>
+                </div>
             </div> <!--Contenido Anuncio-->
         </div><!--Anuncio-->
+        <div class="anuncio">
+            <picture>
+                <source srcset="/build/img/DevWebCamp.webp" type="image/webp">
+                <source srcset="/build/img/DevWebCamp.png" type="image/png">
+                <img loading="lazy" src="/build/img/DevWebCamp.png" alt="Pagina DevWebCamp">
+            </picture>
+
+            <div class="contenido-anuncio">
+                <h3>DevWebCamp</h3>
+                <p>App web para administrar un evento, los usuarios podran inscribirse y adquirir su boleto una vez que hayan realizado su pago (PayPal). Cuenta con un panel de administracion. Creado desde cero y siguiendo la arquitectura MVC</p>
+                <div class="fijo">
+                    <ul class="iconos-caracteristicas">
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/html.png" alt="icono HTML">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/css.png" alt="icono css">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/js.png" alt="icono javascript">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/php.png" alt="icono php">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/node.svg" alt="icono NodeJs">
+                        </li>
+                        <li>
+                            <img class="iconos" loading="lazy" src="/build/img/mysql.png" alt="icono MySql">
+                        </li>
+                    </ul>
+
+
+                    <a href="https://juvyaca.mnz.dom.my.id/" class=" boton-amarillo-bl" target="_blank" rel="noopener noreferrer">
+                        Visitar
+                    </a>
+                </div>
+            </div> <!--Contenido Anuncio-->
+        </div><!--Anuncio-->
+
+
 
 
 
